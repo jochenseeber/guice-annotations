@@ -1,0 +1,7 @@
+class com/google/inject/Binder
+bind
+ <T:Ljava/lang/Object;>(Lcom/google/inject/TypeLiteral<TT;>;)Lcom/google/inject/binder/AnnotatedBindingBuilder<TT;>;
+ <T:Ljava/lang/Object;>(L1com/google/inject/TypeLiteral<TT;>;)L1com/google/inject/binder/AnnotatedBindingBuilder<TT;>;
+bind
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)Lcom/google/inject/binder/AnnotatedBindingBuilder<TT;>;
+ <T:Ljava/lang/Object;>(L1java/lang/Class<TT;>;)L1com/google/inject/binder/AnnotatedBindingBuilder<TT;>;

@@ -1,0 +1,4 @@
+class com/google/inject/TypeLiteral
+get
+ (Ljava/lang/reflect/Type;)Lcom/google/inject/TypeLiteral<*>;
+ (L1java/lang/reflect/Type;)L1com/google/inject/TypeLiteral<*>;

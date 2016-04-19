@@ -1,0 +1,4 @@
+class com/google/inject/Injector
+createChildInjector
+ ([Lcom/google/inject/Module;)Lcom/google/inject/Injector;
+ ([Lcom/google/inject/Module;)L1com/google/inject/Injector;

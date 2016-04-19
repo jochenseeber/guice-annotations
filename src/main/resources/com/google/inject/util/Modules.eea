@@ -1,0 +1,7 @@
+class com/google/inject/util/Modules
+combine
+ (Ljava/lang/Iterable<+Lcom/google/inject/Module;>;)Lcom/google/inject/Module;
+ (L1java/lang/Iterable<+L1com/google/inject/Module;>;)L1com/google/inject/Module;
+override
+ ([Lcom/google/inject/Module;)Lcom/google/inject/util/Modules$OverriddenModuleBuilder;
+ ([Lcom/google/inject/Module;)L1com/google/inject/util/Modules$OverriddenModuleBuilder;

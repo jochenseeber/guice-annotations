@@ -1,0 +1,7 @@
+class com/google/inject/binder/LinkedBindingBuilder
+to
+ (Ljava/lang/Class<+TT;>;)Lcom/google/inject/binder/ScopedBindingBuilder;
+ (L1java/lang/Class<+TT;>;)L1com/google/inject/binder/ScopedBindingBuilder;
+toProvider
+ (Ljavax/inject/Provider<+TT;>;)Lcom/google/inject/binder/ScopedBindingBuilder;
+ (L1javax/inject/Provider<+TT;>;)L1com/google/inject/binder/ScopedBindingBuilder;

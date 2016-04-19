@@ -1,0 +1,4 @@
+class com/google/inject/name/Names
+named
+ (Ljava/lang/String;)Lcom/google/inject/name/Named;
+ (L1java/lang/String;)L1com/google/inject/name/Named;

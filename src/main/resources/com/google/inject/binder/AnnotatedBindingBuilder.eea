@@ -1,0 +1,4 @@
+class com/google/inject/binder/AnnotatedBindingBuilder
+annotatedWith
+ (Ljava/lang/annotation/Annotation;)Lcom/google/inject/binder/LinkedBindingBuilder<TT;>;
+ (L1java/lang/annotation/Annotation;)L1com/google/inject/binder/LinkedBindingBuilder<TT;>;

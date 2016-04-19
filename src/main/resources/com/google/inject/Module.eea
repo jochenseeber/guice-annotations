@@ -1,0 +1,6 @@
+class com/google/inject/Module
+configure
+ (Lcom/google/inject/Binder;)V
+ (L1com/google/inject/Binder;)V
+ofNullable
+ (L1java/lang/Optional;)T0;
