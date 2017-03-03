@@ -14,7 +14,7 @@ buildscript {
     }
 }
 
-version = "4.0-r.2"
+version = "4.0-r.3"
 group = "me.seeber.annotations"
 description = "External annotations for Guice 4.0"
 
