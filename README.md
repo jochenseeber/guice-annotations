@@ -13,5 +13,5 @@ To build the annotations JAR, run
 gradle build
 ```
 
-This will create the file `guice-annotations-4.0-r.2.jar`. Attach this file to the
+This will create the file `guice-annotations-4.0-r.4.jar`. Attach this file to the
 Guice library entry in your build path to have Eclipse use the annotations.
